@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+pytesseract
+pdf2image
+numpy
+pillow
+img2pdf
+pypdf
+reportlab
+dropbox
+pydrive
